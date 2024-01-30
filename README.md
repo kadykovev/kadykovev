@@ -21,12 +21,6 @@ I am currently working as a leading design engineer, but I have long been intere
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kadykovev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kadykovev&show_icons=true)](https://github.com/kadykovev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadykovev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
