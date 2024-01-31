@@ -32,6 +32,16 @@ https://cv.hexlet.io/ru/resumes/3433
 
 ### My Contacts
 
+<a href="mailto:kadykovevgeniy1983@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://t.me/kadykov_e_v">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://linkedin.com/in/kadykovevgeniy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
+  </a>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kadykovev&show_icons=true)](https://github.com/kadykovev)
 
