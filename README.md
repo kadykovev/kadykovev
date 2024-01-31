@@ -32,7 +32,7 @@ https://cv.hexlet.io/ru/resumes/3433
 
 ### My Contacts
 
-<a href="mailto:kadykovevgeniy1983@gmail.com">
+<a href="mailto:evgeniykadykov1983@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://t.me/kadykov_e_v">
