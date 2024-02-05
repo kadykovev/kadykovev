@@ -28,11 +28,11 @@ https://cv.hexlet.io/ru/resumes/3433
 
 ## My Portfolio
 
-[Brain-games](https://github.com/kadykovev/brain-games ). A console application of 5 different mini-games, which include tasks that test knowledge in the logical and arithmetic directions.
+[Brain-games](https://github.com/kadykovev/brain-games ) - A console application of 5 different mini-games, which include tasks that test knowledge in the logical and arithmetic directions.
 
-[Difference- calculator](https://github.com/kadykovev/difference-calculator ). A command-line utility for detecting differences between two data structures (JSON or YAML format files).
+[Difference- calculator](https://github.com/kadykovev/difference-calculator ) - A command-line utility for detecting differences between two data structures (JSON or YAML format files).
 
-[Page-analyzer](https://github.com/kadykovev/page-analyzer ). A web application that allows you to analyze the URL. Its availability, response code, h1, title, description, and saving this data to the database.
+[Page-analyzer](https://github.com/kadykovev/page-analyzer ) - A full-fledged web application that executes queries over the network and stores data in a database.
 
 ## My Contacts
 <p>
