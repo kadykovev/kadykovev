@@ -34,6 +34,8 @@ https://cv.hexlet.io/ru/resumes/3433
 
 [Page-analyzer](https://github.com/kadykovev/page-analyzer ) - A full-fledged web application that executes queries over the network and stores data in a database.
 
+[Tasks-manager](https://github.com/kadykovev/tasks-manager) - Task Manager is a task management system similar to http://www.redmine.org /. It allows you to set tasks, assign performers and change their statuses. Registration and authentication are required to work with the system.
+
 ## My Contacts
 <p>
   <a href="mailto:evgeniykadykov1983@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
